@@ -49,8 +49,8 @@ A robust WiFi connection manager for ESP32 that supports:
 3. Reset: Press the button to clear credentials and restart provisioning.
 
 📄 Dependencies
- . ArduinoJSON (v6+)
- . ESP32 Arduino Core
+    . ArduinoJSON (v6+)
+    . ESP32 Arduino Core
 
 ⚡ Output Examples
  . Successful Connection:
